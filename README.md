@@ -1,7 +1,11 @@
-<p align="center">
-  <img src="giphy.gif" />
-</p>
-
+<header align="center">
+  <p align="center"> <img src="giphy.gif" /> </p>
+  <h2 align="center">Hi, i'm <a href="https://github.com/LTyrrels">Jamy</a> !</h2> 
+</header>
+<body>
+  <h4 align="center">Welcome to my profile!</h4>
+  <h6 align="center">Currently learning in <a href="https://42.fr/en/homepage/">42 Paris</a></6>
+</body>
 <!--
 **LTyrrels/LTyrrels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
